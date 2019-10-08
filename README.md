@@ -14,6 +14,6 @@ end
 ```
 Rename `data.yml.example` to `data.yml` and paste your creds.
 
-Run: `ruby script.rb`
+Run: `bundle` and then `ruby script.rb`
 
 Then, go to [Yandex.Music](https://music.yandex.com/import) (e.g. for yandex), and drop created txt file.
